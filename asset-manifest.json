@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/chips-landing-page/static/css/main.01377450.css",
+    "main.js": "/chips-landing-page/static/js/main.b8e857f8.js",
+    "static/media/green.png": "/chips-landing-page/static/media/green.32ed933eab6a05966428.png",
+    "static/media/purple.png": "/chips-landing-page/static/media/purple.8f5316314616d36f35af.png",
+    "static/media/red.png": "/chips-landing-page/static/media/red.f49c7b67ed97047dad12.png",
+    "static/media/yellow.png": "/chips-landing-page/static/media/yellow.9ab5036f5c0ba98af3cc.png",
+    "static/media/sssurf.svg": "/chips-landing-page/static/media/sssurf.278a18090a4ce13d580e.svg",
+    "index.html": "/chips-landing-page/index.html",
+    "main.01377450.css.map": "/chips-landing-page/static/css/main.01377450.css.map",
+    "main.b8e857f8.js.map": "/chips-landing-page/static/js/main.b8e857f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01377450.css",
+    "static/js/main.b8e857f8.js"
+  ]
+}
